@@ -1,0 +1,2 @@
+# TIZEN-Wi-Fi-Timer-NSU-EXCELR8
+Wi-Fi Timer App, GROUP 5 [NSU EXCEL'R8]
